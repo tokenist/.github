@@ -9,10 +9,10 @@
 
 ---
 
-## 🖼️ Visual Examples  
-![Apple Wallet Home View](https://github.com/user-attachments/assets/a43b5c58-c08d-4f06-b5fd-28b583e7fba2)
-![Google Wallet Event & Transit Pass](https://github.com/user-attachments/assets/3aa3ede5-9c08-4bca-a4c4-2d9cc4a2a0a9)
-
+## 🖼️ Visual Examples
+<div style="display:inline-block">
+<img src="https://github.com/user-attachments/assets/a43b5c58-c08d-4f06-b5fd-28b583e7fba2" width="45%"> <img src="https://github.com/user-attachments/assets/3aa3ede5-9c08-4bca-a4c4-2d9cc4a2a0a9" width="45%">
+</div>
 ---
 
 ## ✨ Key Benefits  
