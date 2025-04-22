@@ -62,4 +62,4 @@ At **Tokenist Solution**, we’re not just building passes—we’re flexing nex
 
 **Ready to flex your brand in your customers’ pockets?**  
 ✨ **Let’s build the future of Wallet Passes—together.**  
-🔗 [Explore our GitHub repos](https://github.com/TokenistSolution) | 📧 contact@tokenistsolution.com
+🔗 [Explore our GitHub repos](https://github.com/tokenist) | 📧 contact@tokenistsolution.com
