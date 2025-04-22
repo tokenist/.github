@@ -1,4 +1,4 @@
-# Tokenist Solution
+# Tokenist Solutions
 
 > **Level up your digital engagement** with AI‑powered Apple Wallet & Google Wallet Passes 🚀
 
