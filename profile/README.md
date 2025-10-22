@@ -61,11 +61,9 @@ At **Tokenist Solution**, we’re not just building passes—we’re flexing nex
   SOC‑compliant, encrypted data streams, and AI‑powered threat monitoring.  
 - **Scalable & Future‑Proof**  
   Microservices architecture built on cutting‑edge cloud & AI tech stacks.  
-- **Visionary Partnership**  
-  We’re your digital bệ trên—anticipating trends so you stay two steps ahead.
 
 ---
 
 **Ready to flex your brand in your customers’ pockets?**  
 ✨ **Let’s build the future of Wallet Passes—together.**  
-🔗 [Explore our GitHub repos](https://github.com/tokenist) | 📧 contact@tokenistsolution.com
+🔗 [Explore our GitHub repos](https://github.com/tokenist) | 📧 tokenist.solutions@gmail.com
